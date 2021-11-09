@@ -37,7 +37,7 @@ int main()
 
 	for(string str : result)
 		cout << str << " ";
-	cout << endl;
+	cout << endl;w
 
 	return 0;
 }
